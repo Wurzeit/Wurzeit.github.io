@@ -12,6 +12,13 @@
     float: left;
 }
 
+.site_main li a {
+    font-size: 30px;
+    text-decoration: none;
+    color: dimgray;
+    font-weight: bold;
+}
+
 #nav {
     list-style: none;
     overflow: hidden;
